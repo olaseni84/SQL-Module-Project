@@ -79,7 +79,3 @@ Together, these queries answer practical business questions such as identifying 
 \## Author
 
 Olaseni Lawal
-
-
-
-![SQL Project Screenshot](images/mysql%20module%20project%20image.png) 
