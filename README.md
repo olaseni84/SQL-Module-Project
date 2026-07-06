@@ -3,7 +3,7 @@
 
 
 \## Overview
-
+![SQL Project Screenshot](images/mysql%20module%20project%20image.png)
 This project is a MySQL-based analysis of the Trendora Shopping Dataset, completed as part of the Torilo Academy Data Analysis Program. It demonstrates core SQL querying skills, from basic filtering and sorting to more advanced data retrieval techniques used to answer real business questions about customer shopping behavior.
 
 
