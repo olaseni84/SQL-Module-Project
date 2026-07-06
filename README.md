@@ -82,3 +82,4 @@ Olaseni Lawal
 
 
 
+![SQL Project Screenshot](images/mysql%20module%20project%20image.png) 
